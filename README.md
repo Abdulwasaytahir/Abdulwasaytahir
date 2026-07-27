@@ -78,7 +78,7 @@ I'm a BS Computer Science student passionate about Backend Development, Python, 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Abdulwasaytahir
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: www.linkedin.com/in/abdul-wasay-tahir-3872b72b5
 
 ---
 
